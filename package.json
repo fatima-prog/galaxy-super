@@ -1,0 +1,13 @@
+{
+  "name": "clip-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch scss/style.scss:css/style.css",
+    "live":"live-server",
+    "deploy":"gh-pages -d ."
+  },
+  "author": "",
+  "license": "ISC"
+}
